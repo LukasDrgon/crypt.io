@@ -137,6 +137,14 @@ To setup using `yarn`
 %> yarn add crypt.io
 ```
 
+### CDN
+To setup using a CDN
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/crypt.io/dist/crypt.io.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sjcl/sjcl.js"></script>
+```
+
 ### Bower (depreciated)
 To setup using bower
 
